@@ -1,0 +1,967 @@
+frozenset({'CGM_0-100-109'})
+frozenset({'CGM_0-110-119'})
+frozenset({'CGM_0-120-129'})
+frozenset({'CGM_0-130-139'})
+frozenset({'CGM_0-150-159'})
+frozenset({'CGM_0-180-189'})
+frozenset({'CGM_0-220-229'})
+frozenset({'CGM_0-260-269'})
+frozenset({'CGM_0-70-79'})
+frozenset({'CGM_0-80-89'})
+frozenset({'CGM_0-90-99'})
+frozenset({'CGM_M-100-109'})
+frozenset({'CGM_M-120-129'})
+frozenset({'CGM_M-130-139'})
+frozenset({'CGM_M-140-149'})
+frozenset({'CGM_M-160-169'})
+frozenset({'CGM_M-180-189'})
+frozenset({'CGM_M-190-199'})
+frozenset({'CGM_M-200-209'})
+frozenset({'CGM_M-210-219'})
+frozenset({'CGM_M-220-229'})
+frozenset({'CGM_M-230-239'})
+frozenset({'CGM_M-240-249'})
+frozenset({'CGM_M-260-269'})
+frozenset({'CGM_M-270-279'})
+frozenset({'CGM_M-350-359'})
+frozenset({'I_B-0.9'})
+frozenset({'I_B-1.0'})
+frozenset({'I_B-1.2'})
+frozenset({'I_B-1.3'})
+frozenset({'I_B-1.4'})
+frozenset({'I_B-1.5'})
+frozenset({'I_B-1.6'})
+frozenset({'I_B-1.7'})
+frozenset({'I_B-1.8'})
+frozenset({'I_B-1.9'})
+frozenset({'I_B-2.0'})
+frozenset({'I_B-2.1'})
+frozenset({'I_B-2.2'})
+"frozenset({'CGM_0-100-109', 'CGM_M-130-139'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-140-149'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-180-189'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-190-199'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-200-209'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-210-219'})"
+"frozenset({'CGM_M-230-239', 'CGM_0-100-109'})"
+"frozenset({'CGM_0-100-109', 'I_B-1.4'})"
+"frozenset({'CGM_0-100-109', 'I_B-1.5'})"
+"frozenset({'CGM_0-100-109', 'I_B-1.7'})"
+"frozenset({'CGM_0-100-109', 'I_B-2.0'})"
+"frozenset({'CGM_0-110-119', 'CGM_M-200-209'})"
+"frozenset({'CGM_0-110-119', 'CGM_M-210-219'})"
+"frozenset({'CGM_0-110-119', 'I_B-1.5'})"
+"frozenset({'CGM_0-110-119', 'I_B-2.0'})"
+"frozenset({'CGM_M-160-169', 'CGM_0-120-129'})"
+"frozenset({'CGM_0-120-129', 'CGM_M-190-199'})"
+"frozenset({'CGM_M-270-279', 'CGM_0-120-129'})"
+"frozenset({'CGM_0-120-129', 'I_B-1.5'})"
+"frozenset({'CGM_0-120-129', 'I_B-1.6'})"
+"frozenset({'I_B-2.2', 'CGM_0-120-129'})"
+"frozenset({'CGM_M-200-209', 'CGM_0-130-139'})"
+"frozenset({'CGM_0-130-139', 'CGM_M-220-229'})"
+"frozenset({'CGM_0-130-139', 'I_B-1.5'})"
+"frozenset({'CGM_0-130-139', 'I_B-1.7'})"
+"frozenset({'CGM_M-180-189', 'CGM_0-150-159'})"
+"frozenset({'I_B-1.8', 'CGM_0-150-159'})"
+"frozenset({'CGM_M-190-199', 'CGM_0-180-189'})"
+"frozenset({'I_B-1.9', 'CGM_0-180-189'})"
+"frozenset({'CGM_M-230-239', 'CGM_0-220-229'})"
+"frozenset({'I_B-2.1', 'CGM_0-220-229'})"
+"frozenset({'CGM_0-260-269', 'CGM_M-350-359'})"
+"frozenset({'CGM_0-260-269', 'I_B-1.5'})"
+"frozenset({'CGM_M-130-139', 'CGM_0-70-79'})"
+"frozenset({'CGM_M-160-169', 'CGM_0-70-79'})"
+"frozenset({'CGM_M-180-189', 'CGM_0-70-79'})"
+"frozenset({'I_B-1.0', 'CGM_0-70-79'})"
+"frozenset({'I_B-1.2', 'CGM_0-70-79'})"
+"frozenset({'CGM_M-100-109', 'CGM_0-80-89'})"
+"frozenset({'CGM_M-120-129', 'CGM_0-80-89'})"
+"frozenset({'CGM_0-80-89', 'CGM_M-140-149'})"
+"frozenset({'CGM_0-80-89', 'CGM_M-240-249'})"
+"frozenset({'I_B-0.9', 'CGM_0-80-89'})"
+"frozenset({'CGM_0-80-89', 'I_B-1.5'})"
+"frozenset({'I_B-2.1', 'CGM_0-80-89'})"
+"frozenset({'CGM_M-130-139', 'CGM_0-90-99'})"
+"frozenset({'CGM_0-90-99', 'CGM_M-200-209'})"
+"frozenset({'CGM_0-90-99', 'CGM_M-220-229'})"
+"frozenset({'CGM_M-230-239', 'CGM_0-90-99'})"
+"frozenset({'CGM_M-260-269', 'CGM_0-90-99'})"
+"frozenset({'I_B-1.3', 'CGM_0-90-99'})"
+"frozenset({'I_B-1.6', 'CGM_0-90-99'})"
+"frozenset({'CGM_0-90-99', 'I_B-1.7'})"
+"frozenset({'CGM_0-90-99', 'I_B-2.0'})"
+"frozenset({'CGM_M-100-109', 'I_B-1.5'})"
+"frozenset({'CGM_M-120-129', 'I_B-1.5'})"
+"frozenset({'I_B-1.2', 'CGM_M-130-139'})"
+"frozenset({'CGM_M-130-139', 'I_B-1.5'})"
+"frozenset({'CGM_M-130-139', 'I_B-1.6'})"
+"frozenset({'I_B-1.4', 'CGM_M-140-149'})"
+"frozenset({'I_B-2.1', 'CGM_M-140-149'})"
+"frozenset({'CGM_M-160-169', 'I_B-1.2'})"
+"frozenset({'CGM_M-160-169', 'I_B-1.6'})"
+"frozenset({'CGM_M-180-189', 'I_B-1.0'})"
+"frozenset({'CGM_M-180-189', 'I_B-1.7'})"
+"frozenset({'I_B-1.8', 'CGM_M-180-189'})"
+"frozenset({'CGM_M-180-189', 'I_B-2.0'})"
+"frozenset({'CGM_M-190-199', 'I_B-1.7'})"
+"frozenset({'I_B-1.9', 'CGM_M-190-199'})"
+"frozenset({'I_B-2.2', 'CGM_M-190-199'})"
+"frozenset({'CGM_M-200-209', 'I_B-1.5'})"
+"frozenset({'CGM_M-200-209', 'I_B-1.7'})"
+"frozenset({'CGM_M-200-209', 'I_B-2.0'})"
+"frozenset({'CGM_M-210-219', 'I_B-1.7'})"
+"frozenset({'I_B-2.0', 'CGM_M-210-219'})"
+"frozenset({'I_B-1.7', 'CGM_M-220-229'})"
+"frozenset({'I_B-2.0', 'CGM_M-220-229'})"
+"frozenset({'I_B-1.3', 'CGM_M-230-239'})"
+"frozenset({'CGM_M-230-239', 'I_B-1.5'})"
+"frozenset({'CGM_M-230-239', 'I_B-1.6'})"
+"frozenset({'CGM_M-230-239', 'I_B-2.1'})"
+"frozenset({'I_B-0.9', 'CGM_M-240-249'})"
+"frozenset({'CGM_M-260-269', 'I_B-2.0'})"
+"frozenset({'CGM_M-270-279', 'I_B-1.5'})"
+"frozenset({'I_B-1.5', 'CGM_M-350-359'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-130-139', 'I_B-1.5'})"
+"frozenset({'CGM_0-100-109', 'I_B-1.4', 'CGM_M-140-149'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-180-189', 'I_B-1.7'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-180-189', 'I_B-2.0'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-190-199', 'I_B-1.7'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-200-209', 'I_B-1.5'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-210-219', 'I_B-1.7'})"
+"frozenset({'CGM_M-230-239', 'CGM_0-100-109', 'I_B-1.5'})"
+"frozenset({'CGM_0-110-119', 'CGM_M-200-209', 'I_B-1.5'})"
+"frozenset({'I_B-2.0', 'CGM_0-110-119', 'CGM_M-200-209'})"
+"frozenset({'I_B-2.0', 'CGM_0-110-119', 'CGM_M-210-219'})"
+"frozenset({'CGM_M-160-169', 'CGM_0-120-129', 'I_B-1.6'})"
+"frozenset({'I_B-2.2', 'CGM_0-120-129', 'CGM_M-190-199'})"
+"frozenset({'CGM_M-270-279', 'CGM_0-120-129', 'I_B-1.5'})"
+"frozenset({'CGM_M-200-209', 'CGM_0-130-139', 'I_B-1.5'})"
+"frozenset({'CGM_0-130-139', 'I_B-1.7', 'CGM_M-220-229'})"
+"frozenset({'I_B-1.8', 'CGM_M-180-189', 'CGM_0-150-159'})"
+"frozenset({'I_B-1.9', 'CGM_M-190-199', 'CGM_0-180-189'})"
+"frozenset({'CGM_M-230-239', 'I_B-2.1', 'CGM_0-220-229'})"
+"frozenset({'CGM_0-260-269', 'I_B-1.5', 'CGM_M-350-359'})"
+"frozenset({'I_B-1.2', 'CGM_M-130-139', 'CGM_0-70-79'})"
+"frozenset({'CGM_M-160-169', 'I_B-1.2', 'CGM_0-70-79'})"
+"frozenset({'I_B-1.0', 'CGM_M-180-189', 'CGM_0-70-79'})"
+"frozenset({'CGM_M-100-109', 'CGM_0-80-89', 'I_B-1.5'})"
+"frozenset({'CGM_M-120-129', 'CGM_0-80-89', 'I_B-1.5'})"
+"frozenset({'I_B-2.1', 'CGM_0-80-89', 'CGM_M-140-149'})"
+"frozenset({'I_B-0.9', 'CGM_0-80-89', 'CGM_M-240-249'})"
+"frozenset({'CGM_M-130-139', 'I_B-1.6', 'CGM_0-90-99'})"
+"frozenset({'CGM_M-200-209', 'CGM_0-90-99', 'I_B-1.7'})"
+"frozenset({'CGM_0-90-99', 'I_B-2.0', 'CGM_M-220-229'})"
+"frozenset({'I_B-1.3', 'CGM_0-90-99', 'CGM_M-230-239'})"
+"frozenset({'CGM_M-230-239', 'I_B-1.6', 'CGM_0-90-99'})"
+"frozenset({'CGM_M-260-269', 'CGM_0-90-99', 'I_B-2.0'})"
+frozenset({'CGM_0-0-9'})
+frozenset({'CGM_0-100-109'})
+frozenset({'CGM_0-110-119'})
+frozenset({'CGM_0-120-129'})
+frozenset({'CGM_0-130-139'})
+frozenset({'CGM_0-160-169'})
+frozenset({'CGM_0-170-179'})
+frozenset({'CGM_0-180-189'})
+frozenset({'CGM_0-190-199'})
+frozenset({'CGM_0-200-209'})
+frozenset({'CGM_0-210-219'})
+frozenset({'CGM_0-230-239'})
+frozenset({'CGM_0-250-259'})
+frozenset({'CGM_0-360-369'})
+frozenset({'CGM_0-50-59'})
+frozenset({'CGM_0-60-69'})
+frozenset({'CGM_0-70-79'})
+frozenset({'CGM_0-80-89'})
+frozenset({'CGM_0-90-99'})
+frozenset({'CGM_M-0-9'})
+frozenset({'CGM_M-110-119'})
+frozenset({'CGM_M-130-139'})
+frozenset({'CGM_M-140-149'})
+frozenset({'CGM_M-170-179'})
+frozenset({'CGM_M-180-189'})
+frozenset({'CGM_M-190-199'})
+frozenset({'CGM_M-210-219'})
+frozenset({'CGM_M-220-229'})
+frozenset({'CGM_M-230-239'})
+frozenset({'CGM_M-240-249'})
+frozenset({'CGM_M-250-259'})
+frozenset({'CGM_M-260-269'})
+frozenset({'CGM_M-270-279'})
+frozenset({'CGM_M-280-289'})
+frozenset({'CGM_M-310-319'})
+frozenset({'CGM_M-330-339'})
+frozenset({'CGM_M-360-369'})
+frozenset({'CGM_M-90-99'})
+frozenset({'I_B-1.4'})
+frozenset({'I_B-2.8'})
+frozenset({'I_B-3.3'})
+frozenset({'I_B-4.0'})
+frozenset({'I_B-4.2'})
+frozenset({'I_B-4.4'})
+frozenset({'I_B-4.5'})
+frozenset({'I_B-4.7'})
+frozenset({'I_B-4.8'})
+frozenset({'I_B-4.9'})
+frozenset({'I_B-5.0'})
+frozenset({'I_B-5.2'})
+frozenset({'I_B-5.3'})
+frozenset({'I_B-5.4'})
+frozenset({'I_B-6.0'})
+frozenset({'I_B-6.1'})
+frozenset({'I_B-6.2'})
+frozenset({'I_B-6.3'})
+frozenset({'I_B-6.6'})
+frozenset({'I_B-7.3'})
+frozenset({'I_B-7.5'})
+"frozenset({'CGM_M-0-9', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-0-9', 'I_B-5.4'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-140-149'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-210-219'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-250-259'})"
+"frozenset({'CGM_M-260-269', 'CGM_0-100-109'})"
+"frozenset({'CGM_0-100-109', 'I_B-4.0'})"
+"frozenset({'CGM_0-100-109', 'I_B-4.7'})"
+"frozenset({'CGM_0-100-109', 'I_B-5.2'})"
+"frozenset({'CGM_0-100-109', 'I_B-6.6'})"
+"frozenset({'CGM_0-110-119', 'CGM_M-110-119'})"
+"frozenset({'CGM_M-280-289', 'CGM_0-110-119'})"
+"frozenset({'I_B-4.4', 'CGM_0-110-119'})"
+"frozenset({'CGM_0-110-119', 'I_B-4.5'})"
+"frozenset({'CGM_0-120-129', 'CGM_M-140-149'})"
+"frozenset({'CGM_M-180-189', 'CGM_0-120-129'})"
+"frozenset({'CGM_0-120-129', 'CGM_M-190-199'})"
+"frozenset({'CGM_M-270-279', 'CGM_0-120-129'})"
+"frozenset({'I_B-1.4', 'CGM_0-120-129'})"
+"frozenset({'CGM_0-120-129', 'I_B-4.2'})"
+"frozenset({'CGM_0-120-129', 'I_B-4.7'})"
+"frozenset({'CGM_0-120-129', 'I_B-6.2'})"
+"frozenset({'CGM_M-180-189', 'CGM_0-130-139'})"
+"frozenset({'CGM_M-330-339', 'CGM_0-130-139'})"
+"frozenset({'CGM_0-130-139', 'I_B-4.2'})"
+"frozenset({'I_B-5.0', 'CGM_0-130-139'})"
+"frozenset({'CGM_M-230-239', 'CGM_0-160-169'})"
+"frozenset({'I_B-7.5', 'CGM_0-160-169'})"
+"frozenset({'CGM_M-250-259', 'CGM_0-170-179'})"
+"frozenset({'CGM_M-270-279', 'CGM_0-170-179'})"
+"frozenset({'I_B-5.2', 'CGM_0-170-179'})"
+"frozenset({'CGM_0-170-179', 'I_B-6.1'})"
+"frozenset({'CGM_M-180-189', 'CGM_0-180-189'})"
+"frozenset({'CGM_M-240-249', 'CGM_0-180-189'})"
+"frozenset({'I_B-5.2', 'CGM_0-180-189'})"
+"frozenset({'I_B-7.3', 'CGM_0-180-189'})"
+"frozenset({'CGM_0-190-199', 'CGM_M-280-289'})"
+"frozenset({'CGM_0-190-199', 'I_B-6.3'})"
+"frozenset({'CGM_M-220-229', 'CGM_0-200-209'})"
+"frozenset({'I_B-4.8', 'CGM_0-200-209'})"
+"frozenset({'CGM_0-210-219', 'CGM_M-210-219'})"
+"frozenset({'CGM_0-210-219', 'CGM_M-280-289'})"
+"frozenset({'CGM_0-210-219', 'I_B-6.0'})"
+"frozenset({'CGM_0-210-219', 'I_B-7.3'})"
+"frozenset({'CGM_M-260-269', 'CGM_0-230-239'})"
+"frozenset({'CGM_M-270-279', 'CGM_0-230-239'})"
+"frozenset({'CGM_0-230-239', 'CGM_M-310-319'})"
+"frozenset({'CGM_0-230-239', 'I_B-4.2'})"
+"frozenset({'I_B-5.0', 'CGM_0-230-239'})"
+"frozenset({'CGM_0-230-239', 'I_B-6.2'})"
+"frozenset({'CGM_0-250-259', 'CGM_M-280-289'})"
+"frozenset({'CGM_0-250-259', 'I_B-7.3'})"
+"frozenset({'CGM_M-360-369', 'CGM_0-360-369'})"
+"frozenset({'I_B-6.3', 'CGM_0-360-369'})"
+"frozenset({'CGM_M-230-239', 'CGM_0-50-59'})"
+"frozenset({'CGM_0-50-59', 'I_B-5.3'})"
+"frozenset({'CGM_M-190-199', 'CGM_0-60-69'})"
+"frozenset({'I_B-2.8', 'CGM_0-60-69'})"
+"frozenset({'CGM_M-130-139', 'CGM_0-70-79'})"
+"frozenset({'CGM_M-270-279', 'CGM_0-70-79'})"
+"frozenset({'I_B-4.8', 'CGM_0-70-79'})"
+"frozenset({'I_B-4.9', 'CGM_0-70-79'})"
+"frozenset({'CGM_M-170-179', 'CGM_0-80-89'})"
+"frozenset({'CGM_0-80-89', 'CGM_M-210-219'})"
+"frozenset({'CGM_M-90-99', 'CGM_0-80-89'})"
+"frozenset({'I_B-4.9', 'CGM_0-80-89'})"
+"frozenset({'CGM_0-80-89', 'I_B-5.3'})"
+"frozenset({'CGM_0-80-89', 'I_B-6.0'})"
+"frozenset({'CGM_M-130-139', 'CGM_0-90-99'})"
+"frozenset({'CGM_0-90-99', 'CGM_M-210-219'})"
+"frozenset({'CGM_0-90-99', 'CGM_M-220-229'})"
+"frozenset({'I_B-3.3', 'CGM_0-90-99'})"
+"frozenset({'CGM_0-90-99', 'I_B-4.2'})"
+"frozenset({'CGM_0-90-99', 'I_B-4.7'})"
+"frozenset({'CGM_M-0-9', 'I_B-5.4'})"
+"frozenset({'I_B-4.4', 'CGM_M-110-119'})"
+"frozenset({'CGM_M-130-139', 'I_B-3.3'})"
+"frozenset({'I_B-4.9', 'CGM_M-130-139'})"
+"frozenset({'I_B-4.7', 'CGM_M-140-149'})"
+"frozenset({'I_B-6.6', 'CGM_M-140-149'})"
+"frozenset({'CGM_M-170-179', 'I_B-5.3'})"
+"frozenset({'CGM_M-180-189', 'I_B-4.2'})"
+"frozenset({'I_B-5.0', 'CGM_M-180-189'})"
+"frozenset({'I_B-7.3', 'CGM_M-180-189'})"
+"frozenset({'I_B-1.4', 'CGM_M-190-199'})"
+"frozenset({'I_B-2.8', 'CGM_M-190-199'})"
+"frozenset({'I_B-4.0', 'CGM_M-210-219'})"
+"frozenset({'CGM_M-210-219', 'I_B-4.2'})"
+"frozenset({'I_B-4.9', 'CGM_M-210-219'})"
+"frozenset({'I_B-6.0', 'CGM_M-210-219'})"
+"frozenset({'I_B-4.7', 'CGM_M-220-229'})"
+"frozenset({'I_B-4.8', 'CGM_M-220-229'})"
+"frozenset({'CGM_M-230-239', 'I_B-5.3'})"
+"frozenset({'CGM_M-230-239', 'I_B-7.5'})"
+"frozenset({'I_B-5.2', 'CGM_M-240-249'})"
+"frozenset({'CGM_M-250-259', 'I_B-4.7'})"
+"frozenset({'CGM_M-250-259', 'I_B-6.1'})"
+"frozenset({'CGM_M-260-269', 'I_B-4.2'})"
+"frozenset({'CGM_M-260-269', 'I_B-5.2'})"
+"frozenset({'CGM_M-270-279', 'I_B-4.8'})"
+"frozenset({'CGM_M-270-279', 'I_B-5.0'})"
+"frozenset({'CGM_M-270-279', 'I_B-5.2'})"
+"frozenset({'CGM_M-270-279', 'I_B-6.2'})"
+"frozenset({'CGM_M-280-289', 'I_B-4.5'})"
+"frozenset({'CGM_M-280-289', 'I_B-6.3'})"
+"frozenset({'I_B-7.3', 'CGM_M-280-289'})"
+"frozenset({'CGM_M-310-319', 'I_B-6.2'})"
+"frozenset({'CGM_M-330-339', 'I_B-4.2'})"
+"frozenset({'I_B-6.3', 'CGM_M-360-369'})"
+"frozenset({'CGM_M-90-99', 'I_B-6.0'})"
+"frozenset({'CGM_M-0-9', 'CGM_0-0-9', 'I_B-5.4'})"
+"frozenset({'CGM_0-100-109', 'I_B-6.6', 'CGM_M-140-149'})"
+"frozenset({'CGM_0-100-109', 'I_B-4.0', 'CGM_M-210-219'})"
+"frozenset({'CGM_0-100-109', 'I_B-4.7', 'CGM_M-250-259'})"
+"frozenset({'CGM_M-260-269', 'CGM_0-100-109', 'I_B-5.2'})"
+"frozenset({'I_B-4.4', 'CGM_0-110-119', 'CGM_M-110-119'})"
+"frozenset({'CGM_M-280-289', 'CGM_0-110-119', 'I_B-4.5'})"
+"frozenset({'CGM_0-120-129', 'I_B-4.7', 'CGM_M-140-149'})"
+"frozenset({'CGM_M-180-189', 'CGM_0-120-129', 'I_B-4.2'})"
+"frozenset({'I_B-1.4', 'CGM_0-120-129', 'CGM_M-190-199'})"
+"frozenset({'CGM_M-270-279', 'CGM_0-120-129', 'I_B-6.2'})"
+"frozenset({'I_B-5.0', 'CGM_M-180-189', 'CGM_0-130-139'})"
+"frozenset({'CGM_0-130-139', 'CGM_M-330-339', 'I_B-4.2'})"
+"frozenset({'CGM_M-230-239', 'I_B-7.5', 'CGM_0-160-169'})"
+"frozenset({'CGM_M-250-259', 'CGM_0-170-179', 'I_B-6.1'})"
+"frozenset({'CGM_M-270-279', 'I_B-5.2', 'CGM_0-170-179'})"
+"frozenset({'I_B-7.3', 'CGM_M-180-189', 'CGM_0-180-189'})"
+"frozenset({'I_B-5.2', 'CGM_M-240-249', 'CGM_0-180-189'})"
+"frozenset({'CGM_0-190-199', 'CGM_M-280-289', 'I_B-6.3'})"
+"frozenset({'CGM_M-220-229', 'I_B-4.8', 'CGM_0-200-209'})"
+"frozenset({'CGM_0-210-219', 'I_B-6.0', 'CGM_M-210-219'})"
+"frozenset({'CGM_0-210-219', 'I_B-7.3', 'CGM_M-280-289'})"
+"frozenset({'CGM_M-260-269', 'CGM_0-230-239', 'I_B-4.2'})"
+"frozenset({'CGM_M-270-279', 'CGM_0-230-239', 'I_B-5.0'})"
+"frozenset({'CGM_0-230-239', 'CGM_M-310-319', 'I_B-6.2'})"
+"frozenset({'CGM_0-250-259', 'I_B-7.3', 'CGM_M-280-289'})"
+"frozenset({'I_B-6.3', 'CGM_M-360-369', 'CGM_0-360-369'})"
+"frozenset({'CGM_M-230-239', 'CGM_0-50-59', 'I_B-5.3'})"
+"frozenset({'I_B-2.8', 'CGM_M-190-199', 'CGM_0-60-69'})"
+"frozenset({'I_B-4.9', 'CGM_M-130-139', 'CGM_0-70-79'})"
+"frozenset({'CGM_M-270-279', 'I_B-4.8', 'CGM_0-70-79'})"
+"frozenset({'CGM_M-170-179', 'CGM_0-80-89', 'I_B-5.3'})"
+"frozenset({'I_B-4.9', 'CGM_0-80-89', 'CGM_M-210-219'})"
+"frozenset({'CGM_M-90-99', 'CGM_0-80-89', 'I_B-6.0'})"
+"frozenset({'CGM_M-130-139', 'I_B-3.3', 'CGM_0-90-99'})"
+"frozenset({'CGM_0-90-99', 'CGM_M-210-219', 'I_B-4.2'})"
+"frozenset({'CGM_0-90-99', 'CGM_M-220-229', 'I_B-4.7'})"
+frozenset({'CGM_0-0-9'})
+frozenset({'CGM_0-100-109'})
+frozenset({'CGM_0-110-119'})
+frozenset({'CGM_0-120-129'})
+frozenset({'CGM_0-130-139'})
+frozenset({'CGM_0-140-149'})
+frozenset({'CGM_0-150-159'})
+frozenset({'CGM_0-160-169'})
+frozenset({'CGM_0-170-179'})
+frozenset({'CGM_0-180-189'})
+frozenset({'CGM_0-190-199'})
+frozenset({'CGM_0-200-209'})
+frozenset({'CGM_0-210-219'})
+frozenset({'CGM_0-220-229'})
+frozenset({'CGM_0-240-249'})
+frozenset({'CGM_0-250-259'})
+frozenset({'CGM_0-290-299'})
+frozenset({'CGM_0-310-319'})
+frozenset({'CGM_0-390-399'})
+frozenset({'CGM_0-70-79'})
+frozenset({'CGM_0-80-89'})
+frozenset({'CGM_0-90-99'})
+frozenset({'CGM_M-0-9'})
+frozenset({'CGM_M-110-119'})
+frozenset({'CGM_M-120-129'})
+frozenset({'CGM_M-130-139'})
+frozenset({'CGM_M-140-149'})
+frozenset({'CGM_M-150-159'})
+frozenset({'CGM_M-160-169'})
+frozenset({'CGM_M-170-179'})
+frozenset({'CGM_M-180-189'})
+frozenset({'CGM_M-190-199'})
+frozenset({'CGM_M-200-209'})
+frozenset({'CGM_M-210-219'})
+frozenset({'CGM_M-220-229'})
+frozenset({'CGM_M-230-239'})
+frozenset({'CGM_M-240-249'})
+frozenset({'CGM_M-250-259'})
+frozenset({'CGM_M-270-279'})
+frozenset({'CGM_M-280-289'})
+frozenset({'CGM_M-290-299'})
+frozenset({'CGM_M-300-309'})
+frozenset({'CGM_M-320-329'})
+frozenset({'CGM_M-330-339'})
+frozenset({'CGM_M-400-409'})
+frozenset({'I_B-2.5'})
+frozenset({'I_B-3.2'})
+frozenset({'I_B-3.4'})
+frozenset({'I_B-3.5'})
+frozenset({'I_B-3.6'})
+frozenset({'I_B-3.7'})
+frozenset({'I_B-3.8'})
+frozenset({'I_B-3.9'})
+frozenset({'I_B-4.0'})
+frozenset({'I_B-4.1'})
+frozenset({'I_B-4.2'})
+frozenset({'I_B-4.3'})
+frozenset({'I_B-4.4'})
+frozenset({'I_B-4.5'})
+frozenset({'I_B-4.6'})
+frozenset({'I_B-4.7'})
+frozenset({'I_B-4.8'})
+frozenset({'I_B-4.9'})
+frozenset({'I_B-5.1'})
+frozenset({'I_B-5.2'})
+frozenset({'I_B-5.3'})
+frozenset({'I_B-5.5'})
+frozenset({'I_B-5.6'})
+frozenset({'I_B-5.9'})
+frozenset({'I_B-6.1'})
+frozenset({'I_B-6.3'})
+frozenset({'I_B-7.5'})
+"frozenset({'CGM_M-0-9', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-130-139'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-180-189'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-210-219'})"
+"frozenset({'CGM_M-250-259', 'CGM_0-0-9'})"
+"frozenset({'CGM_M-270-279', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-0-9', 'I_B-3.2'})"
+"frozenset({'I_B-3.8', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-0-9', 'I_B-4.6'})"
+"frozenset({'CGM_0-0-9', 'I_B-4.7'})"
+"frozenset({'I_B-4.9', 'CGM_0-0-9'})"
+"frozenset({'I_B-5.9', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-130-139'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-150-159'})"
+"frozenset({'CGM_M-160-169', 'CGM_0-100-109'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-170-179'})"
+"frozenset({'I_B-2.5', 'CGM_0-100-109'})"
+"frozenset({'CGM_0-100-109', 'I_B-3.6'})"
+"frozenset({'CGM_0-100-109', 'I_B-3.8'})"
+"frozenset({'CGM_0-100-109', 'I_B-4.6'})"
+"frozenset({'CGM_M-120-129', 'CGM_0-110-119'})"
+"frozenset({'CGM_M-180-189', 'CGM_0-110-119'})"
+"frozenset({'CGM_0-110-119', 'I_B-3.5'})"
+"frozenset({'I_B-4.0', 'CGM_0-110-119'})"
+"frozenset({'CGM_0-120-129', 'CGM_M-130-139'})"
+"frozenset({'CGM_0-120-129', 'CGM_M-150-159'})"
+"frozenset({'CGM_M-160-169', 'CGM_0-120-129'})"
+"frozenset({'CGM_M-170-179', 'CGM_0-120-129'})"
+"frozenset({'CGM_0-120-129', 'CGM_M-210-219'})"
+"frozenset({'CGM_0-120-129', 'CGM_M-220-229'})"
+"frozenset({'CGM_0-120-129', 'CGM_M-240-249'})"
+"frozenset({'CGM_0-120-129', 'I_B-3.6'})"
+"frozenset({'I_B-3.7', 'CGM_0-120-129'})"
+"frozenset({'I_B-3.8', 'CGM_0-120-129'})"
+"frozenset({'I_B-4.0', 'CGM_0-120-129'})"
+"frozenset({'CGM_0-120-129', 'I_B-4.2'})"
+"frozenset({'I_B-4.4', 'CGM_0-120-129'})"
+"frozenset({'CGM_0-120-129', 'I_B-4.6'})"
+"frozenset({'CGM_M-130-139', 'CGM_0-130-139'})"
+"frozenset({'CGM_M-180-189', 'CGM_0-130-139'})"
+"frozenset({'CGM_0-130-139', 'CGM_M-220-229'})"
+"frozenset({'I_B-3.8', 'CGM_0-130-139'})"
+"frozenset({'I_B-4.0', 'CGM_0-130-139'})"
+"frozenset({'CGM_0-140-149', 'CGM_M-140-149'})"
+"frozenset({'CGM_0-140-149', 'CGM_M-180-189'})"
+"frozenset({'CGM_0-140-149', 'CGM_M-200-209'})"
+"frozenset({'CGM_M-230-239', 'CGM_0-140-149'})"
+"frozenset({'I_B-3.8', 'CGM_0-140-149'})"
+"frozenset({'I_B-3.9', 'CGM_0-140-149'})"
+"frozenset({'I_B-4.0', 'CGM_0-140-149'})"
+"frozenset({'CGM_M-160-169', 'CGM_0-150-159'})"
+"frozenset({'CGM_M-170-179', 'CGM_0-150-159'})"
+"frozenset({'CGM_0-150-159', 'CGM_M-200-209'})"
+"frozenset({'I_B-3.4', 'CGM_0-150-159'})"
+"frozenset({'I_B-3.8', 'CGM_0-150-159'})"
+"frozenset({'I_B-4.3', 'CGM_0-150-159'})"
+"frozenset({'CGM_0-160-169', 'CGM_M-180-189'})"
+"frozenset({'CGM_0-160-169', 'CGM_M-200-209'})"
+"frozenset({'CGM_0-160-169', 'CGM_M-210-219'})"
+"frozenset({'I_B-3.8', 'CGM_0-160-169'})"
+"frozenset({'I_B-3.9', 'CGM_0-160-169'})"
+"frozenset({'I_B-4.0', 'CGM_0-160-169'})"
+"frozenset({'I_B-4.1', 'CGM_0-160-169'})"
+"frozenset({'CGM_0-160-169', 'I_B-4.2'})"
+"frozenset({'CGM_0-160-169', 'I_B-5.1'})"
+"frozenset({'CGM_0-160-169', 'I_B-5.6'})"
+"frozenset({'CGM_M-180-189', 'CGM_0-170-179'})"
+"frozenset({'CGM_M-190-199', 'CGM_0-170-179'})"
+"frozenset({'CGM_M-210-219', 'CGM_0-170-179'})"
+"frozenset({'I_B-4.1', 'CGM_0-170-179'})"
+"frozenset({'I_B-4.5', 'CGM_0-170-179'})"
+"frozenset({'I_B-4.6', 'CGM_0-170-179'})"
+"frozenset({'I_B-4.8', 'CGM_0-170-179'})"
+"frozenset({'I_B-5.5', 'CGM_0-170-179'})"
+"frozenset({'I_B-5.9', 'CGM_0-170-179'})"
+"frozenset({'CGM_0-180-189', 'CGM_M-220-229'})"
+"frozenset({'I_B-5.9', 'CGM_0-180-189'})"
+"frozenset({'CGM_0-190-199', 'CGM_M-200-209'})"
+"frozenset({'CGM_0-190-199', 'I_B-4.8'})"
+"frozenset({'CGM_M-200-209', 'CGM_0-200-209'})"
+"frozenset({'CGM_M-230-239', 'CGM_0-200-209'})"
+"frozenset({'I_B-3.8', 'CGM_0-200-209'})"
+"frozenset({'I_B-5.2', 'CGM_0-200-209'})"
+"frozenset({'CGM_0-210-219', 'CGM_M-220-229'})"
+"frozenset({'CGM_M-230-239', 'CGM_0-210-219'})"
+"frozenset({'CGM_0-210-219', 'CGM_M-250-259'})"
+"frozenset({'CGM_0-210-219', 'CGM_M-290-299'})"
+"frozenset({'CGM_0-210-219', 'I_B-3.6'})"
+"frozenset({'CGM_0-210-219', 'I_B-4.1'})"
+"frozenset({'I_B-4.3', 'CGM_0-210-219'})"
+"frozenset({'CGM_0-210-219', 'I_B-4.6'})"
+"frozenset({'CGM_0-210-219', 'I_B-5.2'})"
+"frozenset({'CGM_M-250-259', 'CGM_0-220-229'})"
+"frozenset({'CGM_M-280-289', 'CGM_0-220-229'})"
+"frozenset({'I_B-3.7', 'CGM_0-220-229'})"
+"frozenset({'CGM_0-220-229', 'I_B-5.3'})"
+"frozenset({'CGM_0-240-249', 'CGM_M-250-259'})"
+"frozenset({'CGM_0-240-249', 'I_B-4.9'})"
+"frozenset({'CGM_0-250-259', 'CGM_M-280-289'})"
+"frozenset({'CGM_0-250-259', 'I_B-6.1'})"
+"frozenset({'CGM_0-290-299', 'CGM_M-300-309'})"
+"frozenset({'CGM_0-290-299', 'I_B-6.3'})"
+"frozenset({'CGM_M-320-329', 'CGM_0-310-319'})"
+"frozenset({'CGM_M-330-339', 'CGM_0-310-319'})"
+"frozenset({'I_B-5.2', 'CGM_0-310-319'})"
+"frozenset({'I_B-7.5', 'CGM_0-310-319'})"
+"frozenset({'CGM_M-400-409', 'CGM_0-390-399'})"
+"frozenset({'I_B-4.3', 'CGM_0-390-399'})"
+"frozenset({'CGM_M-160-169', 'CGM_0-70-79'})"
+"frozenset({'I_B-3.7', 'CGM_0-70-79'})"
+"frozenset({'I_B-3.8', 'CGM_0-70-79'})"
+"frozenset({'CGM_0-80-89', 'CGM_M-140-149'})"
+"frozenset({'CGM_M-160-169', 'CGM_0-80-89'})"
+"frozenset({'CGM_0-80-89', 'I_B-3.5'})"
+"frozenset({'I_B-3.8', 'CGM_0-80-89'})"
+"frozenset({'CGM_0-90-99', 'CGM_M-110-119'})"
+"frozenset({'CGM_0-90-99', 'CGM_M-150-159'})"
+"frozenset({'CGM_M-160-169', 'CGM_0-90-99'})"
+"frozenset({'CGM_M-180-189', 'CGM_0-90-99'})"
+"frozenset({'I_B-3.6', 'CGM_0-90-99'})"
+"frozenset({'I_B-3.7', 'CGM_0-90-99'})"
+"frozenset({'I_B-3.8', 'CGM_0-90-99'})"
+"frozenset({'CGM_M-0-9', 'I_B-3.2'})"
+"frozenset({'CGM_M-0-9', 'I_B-4.6'})"
+"frozenset({'CGM_M-0-9', 'I_B-4.7'})"
+"frozenset({'I_B-5.9', 'CGM_M-0-9'})"
+"frozenset({'I_B-3.7', 'CGM_M-110-119'})"
+"frozenset({'CGM_M-120-129', 'I_B-3.5'})"
+"frozenset({'I_B-3.7', 'CGM_M-130-139'})"
+"frozenset({'I_B-3.8', 'CGM_M-130-139'})"
+"frozenset({'I_B-3.8', 'CGM_M-140-149'})"
+"frozenset({'I_B-3.6', 'CGM_M-150-159'})"
+"frozenset({'I_B-3.8', 'CGM_M-150-159'})"
+"frozenset({'CGM_M-160-169', 'I_B-2.5'})"
+"frozenset({'CGM_M-160-169', 'I_B-3.5'})"
+"frozenset({'CGM_M-160-169', 'I_B-3.7'})"
+"frozenset({'CGM_M-160-169', 'I_B-3.8'})"
+"frozenset({'CGM_M-160-169', 'I_B-4.4'})"
+"frozenset({'CGM_M-160-169', 'I_B-4.6'})"
+"frozenset({'I_B-3.4', 'CGM_M-170-179'})"
+"frozenset({'CGM_M-170-179', 'I_B-3.6'})"
+"frozenset({'I_B-4.0', 'CGM_M-170-179'})"
+"frozenset({'I_B-4.3', 'CGM_M-170-179'})"
+"frozenset({'I_B-3.8', 'CGM_M-180-189'})"
+"frozenset({'I_B-3.9', 'CGM_M-180-189'})"
+"frozenset({'I_B-4.0', 'CGM_M-180-189'})"
+"frozenset({'I_B-4.1', 'CGM_M-180-189'})"
+"frozenset({'CGM_M-180-189', 'I_B-4.5'})"
+"frozenset({'CGM_M-180-189', 'I_B-4.6'})"
+"frozenset({'I_B-4.8', 'CGM_M-190-199'})"
+"frozenset({'I_B-3.8', 'CGM_M-200-209'})"
+"frozenset({'I_B-4.0', 'CGM_M-200-209'})"
+"frozenset({'CGM_M-200-209', 'I_B-4.2'})"
+"frozenset({'I_B-4.8', 'CGM_M-200-209'})"
+"frozenset({'CGM_M-200-209', 'I_B-5.6'})"
+"frozenset({'CGM_M-210-219', 'I_B-4.2'})"
+"frozenset({'I_B-4.9', 'CGM_M-210-219'})"
+"frozenset({'I_B-5.1', 'CGM_M-210-219'})"
+"frozenset({'I_B-5.5', 'CGM_M-210-219'})"
+"frozenset({'I_B-5.9', 'CGM_M-210-219'})"
+"frozenset({'I_B-3.8', 'CGM_M-220-229'})"
+"frozenset({'I_B-4.3', 'CGM_M-220-229'})"
+"frozenset({'I_B-4.6', 'CGM_M-220-229'})"
+"frozenset({'I_B-5.9', 'CGM_M-220-229'})"
+"frozenset({'CGM_M-230-239', 'I_B-3.8'})"
+"frozenset({'CGM_M-230-239', 'I_B-4.0'})"
+"frozenset({'CGM_M-230-239', 'I_B-4.1'})"
+"frozenset({'CGM_M-230-239', 'I_B-5.2'})"
+"frozenset({'I_B-4.6', 'CGM_M-240-249'})"
+"frozenset({'CGM_M-250-259', 'I_B-3.7'})"
+"frozenset({'CGM_M-250-259', 'I_B-4.7'})"
+"frozenset({'CGM_M-250-259', 'I_B-4.9'})"
+"frozenset({'CGM_M-250-259', 'I_B-5.2'})"
+"frozenset({'CGM_M-270-279', 'I_B-3.8'})"
+"frozenset({'CGM_M-280-289', 'I_B-5.3'})"
+"frozenset({'CGM_M-280-289', 'I_B-6.1'})"
+"frozenset({'CGM_M-290-299', 'I_B-3.6'})"
+"frozenset({'CGM_M-300-309', 'I_B-6.3'})"
+"frozenset({'CGM_M-320-329', 'I_B-5.2'})"
+"frozenset({'I_B-7.5', 'CGM_M-330-339'})"
+"frozenset({'I_B-4.3', 'CGM_M-400-409'})"
+"frozenset({'CGM_M-0-9', 'CGM_0-0-9', 'I_B-3.2'})"
+"frozenset({'CGM_M-0-9', 'CGM_0-0-9', 'I_B-4.6'})"
+"frozenset({'CGM_M-0-9', 'CGM_0-0-9', 'I_B-4.7'})"
+"frozenset({'I_B-5.9', 'CGM_0-0-9', 'CGM_M-0-9'})"
+"frozenset({'I_B-3.8', 'CGM_0-0-9', 'CGM_M-130-139'})"
+"frozenset({'CGM_M-180-189', 'CGM_0-0-9', 'I_B-4.6'})"
+"frozenset({'I_B-4.9', 'CGM_0-0-9', 'CGM_M-210-219'})"
+"frozenset({'CGM_M-250-259', 'CGM_0-0-9', 'I_B-4.7'})"
+"frozenset({'CGM_M-270-279', 'I_B-3.8', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-100-109', 'I_B-3.8', 'CGM_M-130-139'})"
+"frozenset({'CGM_0-100-109', 'I_B-3.8', 'CGM_M-150-159'})"
+"frozenset({'CGM_M-160-169', 'CGM_0-100-109', 'I_B-2.5'})"
+"frozenset({'CGM_M-160-169', 'CGM_0-100-109', 'I_B-4.6'})"
+"frozenset({'CGM_0-100-109', 'I_B-3.6', 'CGM_M-170-179'})"
+"frozenset({'CGM_M-120-129', 'CGM_0-110-119', 'I_B-3.5'})"
+"frozenset({'I_B-4.0', 'CGM_M-180-189', 'CGM_0-110-119'})"
+"frozenset({'I_B-3.7', 'CGM_0-120-129', 'CGM_M-130-139'})"
+"frozenset({'CGM_0-120-129', 'I_B-3.6', 'CGM_M-150-159'})"
+"frozenset({'CGM_M-160-169', 'I_B-3.8', 'CGM_0-120-129'})"
+"frozenset({'CGM_M-160-169', 'I_B-4.4', 'CGM_0-120-129'})"
+"frozenset({'I_B-4.0', 'CGM_0-120-129', 'CGM_M-170-179'})"
+"frozenset({'CGM_0-120-129', 'CGM_M-210-219', 'I_B-4.2'})"
+"frozenset({'CGM_0-120-129', 'I_B-4.6', 'CGM_M-220-229'})"
+"frozenset({'CGM_0-120-129', 'I_B-4.6', 'CGM_M-240-249'})"
+"frozenset({'I_B-3.8', 'CGM_M-130-139', 'CGM_0-130-139'})"
+"frozenset({'I_B-4.0', 'CGM_M-180-189', 'CGM_0-130-139'})"
+"frozenset({'I_B-3.8', 'CGM_0-130-139', 'CGM_M-220-229'})"
+"frozenset({'I_B-3.8', 'CGM_0-140-149', 'CGM_M-140-149'})"
+"frozenset({'I_B-3.9', 'CGM_0-140-149', 'CGM_M-180-189'})"
+"frozenset({'I_B-4.0', 'CGM_0-140-149', 'CGM_M-180-189'})"
+"frozenset({'I_B-3.8', 'CGM_0-140-149', 'CGM_M-200-209'})"
+"frozenset({'CGM_M-230-239', 'I_B-4.0', 'CGM_0-140-149'})"
+"frozenset({'CGM_M-160-169', 'I_B-3.8', 'CGM_0-150-159'})"
+"frozenset({'I_B-3.4', 'CGM_M-170-179', 'CGM_0-150-159'})"
+"frozenset({'I_B-4.3', 'CGM_M-170-179', 'CGM_0-150-159'})"
+"frozenset({'CGM_0-150-159', 'I_B-3.8', 'CGM_M-200-209'})"
+"frozenset({'CGM_0-160-169', 'I_B-3.8', 'CGM_M-180-189'})"
+"frozenset({'I_B-3.9', 'CGM_M-180-189', 'CGM_0-160-169'})"
+"frozenset({'I_B-4.1', 'CGM_M-180-189', 'CGM_0-160-169'})"
+"frozenset({'I_B-4.0', 'CGM_0-160-169', 'CGM_M-200-209'})"
+"frozenset({'CGM_0-160-169', 'CGM_M-200-209', 'I_B-4.2'})"
+"frozenset({'CGM_0-160-169', 'CGM_M-200-209', 'I_B-5.6'})"
+"frozenset({'CGM_0-160-169', 'I_B-5.1', 'CGM_M-210-219'})"
+"frozenset({'I_B-4.1', 'CGM_M-180-189', 'CGM_0-170-179'})"
+"frozenset({'I_B-4.5', 'CGM_M-180-189', 'CGM_0-170-179'})"
+"frozenset({'CGM_M-180-189', 'I_B-4.6', 'CGM_0-170-179'})"
+"frozenset({'I_B-4.8', 'CGM_M-190-199', 'CGM_0-170-179'})"
+"frozenset({'CGM_M-210-219', 'I_B-5.5', 'CGM_0-170-179'})"
+"frozenset({'I_B-5.9', 'CGM_M-210-219', 'CGM_0-170-179'})"
+"frozenset({'I_B-5.9', 'CGM_0-180-189', 'CGM_M-220-229'})"
+"frozenset({'CGM_0-190-199', 'I_B-4.8', 'CGM_M-200-209'})"
+"frozenset({'I_B-3.8', 'CGM_M-200-209', 'CGM_0-200-209'})"
+"frozenset({'CGM_M-230-239', 'I_B-3.8', 'CGM_0-200-209'})"
+"frozenset({'CGM_M-230-239', 'I_B-5.2', 'CGM_0-200-209'})"
+"frozenset({'I_B-4.3', 'CGM_0-210-219', 'CGM_M-220-229'})"
+"frozenset({'CGM_0-210-219', 'I_B-4.6', 'CGM_M-220-229'})"
+"frozenset({'CGM_M-230-239', 'I_B-4.1', 'CGM_0-210-219'})"
+"frozenset({'CGM_0-210-219', 'CGM_M-250-259', 'I_B-5.2'})"
+"frozenset({'CGM_0-210-219', 'CGM_M-290-299', 'I_B-3.6'})"
+"frozenset({'CGM_M-250-259', 'I_B-3.7', 'CGM_0-220-229'})"
+"frozenset({'CGM_M-280-289', 'CGM_0-220-229', 'I_B-5.3'})"
+"frozenset({'CGM_0-240-249', 'CGM_M-250-259', 'I_B-4.9'})"
+"frozenset({'CGM_0-250-259', 'CGM_M-280-289', 'I_B-6.1'})"
+"frozenset({'CGM_0-290-299', 'CGM_M-300-309', 'I_B-6.3'})"
+"frozenset({'CGM_M-320-329', 'I_B-5.2', 'CGM_0-310-319'})"
+"frozenset({'I_B-7.5', 'CGM_M-330-339', 'CGM_0-310-319'})"
+"frozenset({'I_B-4.3', 'CGM_M-400-409', 'CGM_0-390-399'})"
+"frozenset({'CGM_M-160-169', 'I_B-3.7', 'CGM_0-70-79'})"
+"frozenset({'CGM_M-160-169', 'I_B-3.8', 'CGM_0-70-79'})"
+"frozenset({'I_B-3.8', 'CGM_0-80-89', 'CGM_M-140-149'})"
+"frozenset({'CGM_M-160-169', 'CGM_0-80-89', 'I_B-3.5'})"
+"frozenset({'I_B-3.7', 'CGM_0-90-99', 'CGM_M-110-119'})"
+"frozenset({'I_B-3.6', 'CGM_0-90-99', 'CGM_M-150-159'})"
+"frozenset({'CGM_M-160-169', 'I_B-3.8', 'CGM_0-90-99'})"
+"frozenset({'I_B-3.8', 'CGM_M-180-189', 'CGM_0-90-99'})"
+frozenset({'CGM_0-0-9'})
+frozenset({'CGM_0-100-109'})
+frozenset({'CGM_M-0-9'})
+frozenset({'CGM_M-100-109'})
+frozenset({'CGM_M-140-149'})
+frozenset({'CGM_M-150-159'})
+frozenset({'CGM_M-160-169'})
+frozenset({'CGM_M-170-179'})
+frozenset({'CGM_M-180-189'})
+frozenset({'CGM_M-190-199'})
+frozenset({'CGM_M-200-209'})
+frozenset({'CGM_M-210-219'})
+frozenset({'CGM_M-220-229'})
+frozenset({'CGM_M-230-239'})
+frozenset({'CGM_M-240-249'})
+frozenset({'CGM_M-250-259'})
+frozenset({'CGM_M-260-269'})
+frozenset({'CGM_M-270-279'})
+frozenset({'CGM_M-300-309'})
+frozenset({'CGM_M-330-339'})
+frozenset({'CGM_M-340-349'})
+frozenset({'I_B-0.1'})
+frozenset({'I_B-0.2'})
+frozenset({'I_B-0.3'})
+frozenset({'I_B-0.6'})
+frozenset({'I_B-2.0'})
+frozenset({'I_B-2.4'})
+frozenset({'I_B-2.7'})
+frozenset({'I_B-2.8'})
+frozenset({'I_B-3.0'})
+frozenset({'I_B-3.1'})
+frozenset({'I_B-3.2'})
+frozenset({'I_B-3.3'})
+frozenset({'I_B-3.5'})
+frozenset({'I_B-3.6'})
+frozenset({'I_B-3.7'})
+frozenset({'I_B-3.8'})
+frozenset({'I_B-3.9'})
+frozenset({'I_B-4.0'})
+frozenset({'I_B-4.1'})
+frozenset({'I_B-4.9'})
+"frozenset({'CGM_M-0-9', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-100-109'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-140-149'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-150-159'})"
+"frozenset({'CGM_M-160-169', 'CGM_0-0-9'})"
+"frozenset({'CGM_M-170-179', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-180-189'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-190-199'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-200-209'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-210-219'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-220-229'})"
+"frozenset({'CGM_M-230-239', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-240-249'})"
+"frozenset({'CGM_M-250-259', 'CGM_0-0-9'})"
+"frozenset({'CGM_M-260-269', 'CGM_0-0-9'})"
+"frozenset({'CGM_M-270-279', 'CGM_0-0-9'})"
+"frozenset({'CGM_M-300-309', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-330-339'})"
+"frozenset({'CGM_M-340-349', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-0-9', 'I_B-0.1'})"
+"frozenset({'I_B-0.2', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-0-9', 'I_B-0.3'})"
+"frozenset({'CGM_0-0-9', 'I_B-0.6'})"
+"frozenset({'CGM_0-0-9', 'I_B-2.0'})"
+"frozenset({'I_B-2.4', 'CGM_0-0-9'})"
+"frozenset({'I_B-2.7', 'CGM_0-0-9'})"
+"frozenset({'I_B-2.8', 'CGM_0-0-9'})"
+"frozenset({'I_B-3.0', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-0-9', 'I_B-3.1'})"
+"frozenset({'CGM_0-0-9', 'I_B-3.3'})"
+"frozenset({'CGM_0-0-9', 'I_B-3.5'})"
+"frozenset({'CGM_0-0-9', 'I_B-3.6'})"
+"frozenset({'I_B-3.7', 'CGM_0-0-9'})"
+"frozenset({'I_B-3.8', 'CGM_0-0-9'})"
+"frozenset({'I_B-3.9', 'CGM_0-0-9'})"
+"frozenset({'I_B-4.0', 'CGM_0-0-9'})"
+"frozenset({'I_B-4.1', 'CGM_0-0-9'})"
+"frozenset({'I_B-4.9', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-250-259'})"
+"frozenset({'CGM_0-100-109', 'I_B-3.2'})"
+"frozenset({'CGM_M-0-9', 'I_B-4.0'})"
+"frozenset({'CGM_M-100-109', 'I_B-3.5'})"
+"frozenset({'CGM_M-140-149', 'I_B-3.5'})"
+"frozenset({'I_B-3.7', 'CGM_M-140-149'})"
+"frozenset({'I_B-3.3', 'CGM_M-150-159'})"
+"frozenset({'CGM_M-160-169', 'I_B-0.1'})"
+"frozenset({'CGM_M-160-169', 'I_B-3.3'})"
+"frozenset({'CGM_M-160-169', 'I_B-3.8'})"
+"frozenset({'CGM_M-160-169', 'I_B-4.0'})"
+"frozenset({'CGM_M-170-179', 'I_B-3.7'})"
+"frozenset({'CGM_M-180-189', 'I_B-3.6'})"
+"frozenset({'I_B-3.7', 'CGM_M-180-189'})"
+"frozenset({'I_B-4.0', 'CGM_M-180-189'})"
+"frozenset({'I_B-3.0', 'CGM_M-190-199'})"
+"frozenset({'CGM_M-190-199', 'I_B-3.5'})"
+"frozenset({'I_B-3.9', 'CGM_M-190-199'})"
+"frozenset({'I_B-4.0', 'CGM_M-190-199'})"
+"frozenset({'I_B-4.1', 'CGM_M-190-199'})"
+"frozenset({'I_B-2.8', 'CGM_M-200-209'})"
+"frozenset({'I_B-3.3', 'CGM_M-200-209'})"
+"frozenset({'CGM_M-200-209', 'I_B-3.5'})"
+"frozenset({'I_B-3.7', 'CGM_M-200-209'})"
+"frozenset({'CGM_M-210-219', 'I_B-2.0'})"
+"frozenset({'I_B-2.7', 'CGM_M-210-219'})"
+"frozenset({'I_B-3.7', 'CGM_M-210-219'})"
+"frozenset({'I_B-3.8', 'CGM_M-210-219'})"
+"frozenset({'I_B-4.0', 'CGM_M-210-219'})"
+"frozenset({'I_B-4.1', 'CGM_M-210-219'})"
+"frozenset({'I_B-4.9', 'CGM_M-210-219'})"
+"frozenset({'I_B-0.2', 'CGM_M-220-229'})"
+"frozenset({'I_B-0.3', 'CGM_M-220-229'})"
+"frozenset({'I_B-2.0', 'CGM_M-220-229'})"
+"frozenset({'I_B-2.4', 'CGM_M-220-229'})"
+"frozenset({'I_B-3.1', 'CGM_M-220-229'})"
+"frozenset({'CGM_M-230-239', 'I_B-0.2'})"
+"frozenset({'CGM_M-230-239', 'I_B-3.5'})"
+"frozenset({'I_B-3.3', 'CGM_M-240-249'})"
+"frozenset({'I_B-3.7', 'CGM_M-240-249'})"
+"frozenset({'I_B-4.1', 'CGM_M-240-249'})"
+"frozenset({'CGM_M-250-259', 'I_B-2.8'})"
+"frozenset({'CGM_M-250-259', 'I_B-3.2'})"
+"frozenset({'CGM_M-250-259', 'I_B-3.3'})"
+"frozenset({'CGM_M-260-269', 'I_B-3.1'})"
+"frozenset({'CGM_M-260-269', 'I_B-3.7'})"
+"frozenset({'CGM_M-270-279', 'I_B-2.7'})"
+"frozenset({'CGM_M-270-279', 'I_B-4.0'})"
+"frozenset({'CGM_M-300-309', 'I_B-0.6'})"
+"frozenset({'CGM_M-300-309', 'I_B-3.1'})"
+"frozenset({'CGM_M-330-339', 'I_B-3.3'})"
+"frozenset({'CGM_M-340-349', 'I_B-3.5'})"
+"frozenset({'CGM_M-0-9', 'CGM_0-0-9', 'I_B-4.0'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-100-109', 'I_B-3.5'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-140-149', 'I_B-3.5'})"
+"frozenset({'I_B-3.7', 'CGM_0-0-9', 'CGM_M-140-149'})"
+"frozenset({'CGM_0-0-9', 'I_B-3.3', 'CGM_M-150-159'})"
+"frozenset({'CGM_M-160-169', 'CGM_0-0-9', 'I_B-0.1'})"
+"frozenset({'CGM_M-160-169', 'CGM_0-0-9', 'I_B-3.3'})"
+"frozenset({'CGM_M-160-169', 'I_B-3.8', 'CGM_0-0-9'})"
+"frozenset({'CGM_M-160-169', 'I_B-4.0', 'CGM_0-0-9'})"
+"frozenset({'CGM_M-170-179', 'I_B-3.7', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-180-189', 'I_B-3.6'})"
+"frozenset({'I_B-3.7', 'CGM_0-0-9', 'CGM_M-180-189'})"
+"frozenset({'I_B-4.0', 'CGM_0-0-9', 'CGM_M-180-189'})"
+"frozenset({'I_B-3.0', 'CGM_0-0-9', 'CGM_M-190-199'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-190-199', 'I_B-3.5'})"
+"frozenset({'I_B-3.9', 'CGM_0-0-9', 'CGM_M-190-199'})"
+"frozenset({'I_B-4.0', 'CGM_0-0-9', 'CGM_M-190-199'})"
+"frozenset({'I_B-4.1', 'CGM_0-0-9', 'CGM_M-190-199'})"
+"frozenset({'I_B-2.8', 'CGM_0-0-9', 'CGM_M-200-209'})"
+"frozenset({'I_B-3.3', 'CGM_0-0-9', 'CGM_M-200-209'})"
+"frozenset({'CGM_0-0-9', 'CGM_M-200-209', 'I_B-3.5'})"
+"frozenset({'I_B-3.7', 'CGM_0-0-9', 'CGM_M-200-209'})"
+"frozenset({'CGM_M-210-219', 'CGM_0-0-9', 'I_B-2.0'})"
+"frozenset({'I_B-2.7', 'CGM_0-0-9', 'CGM_M-210-219'})"
+"frozenset({'I_B-3.7', 'CGM_0-0-9', 'CGM_M-210-219'})"
+"frozenset({'I_B-3.8', 'CGM_0-0-9', 'CGM_M-210-219'})"
+"frozenset({'I_B-4.0', 'CGM_0-0-9', 'CGM_M-210-219'})"
+"frozenset({'I_B-4.1', 'CGM_0-0-9', 'CGM_M-210-219'})"
+"frozenset({'I_B-4.9', 'CGM_0-0-9', 'CGM_M-210-219'})"
+"frozenset({'I_B-0.2', 'CGM_0-0-9', 'CGM_M-220-229'})"
+"frozenset({'CGM_0-0-9', 'I_B-0.3', 'CGM_M-220-229'})"
+"frozenset({'CGM_0-0-9', 'I_B-2.0', 'CGM_M-220-229'})"
+"frozenset({'I_B-2.4', 'CGM_0-0-9', 'CGM_M-220-229'})"
+"frozenset({'CGM_0-0-9', 'I_B-3.1', 'CGM_M-220-229'})"
+"frozenset({'CGM_M-230-239', 'I_B-0.2', 'CGM_0-0-9'})"
+"frozenset({'CGM_M-230-239', 'CGM_0-0-9', 'I_B-3.5'})"
+"frozenset({'CGM_0-0-9', 'I_B-3.3', 'CGM_M-240-249'})"
+"frozenset({'I_B-3.7', 'CGM_0-0-9', 'CGM_M-240-249'})"
+"frozenset({'I_B-4.1', 'CGM_0-0-9', 'CGM_M-240-249'})"
+"frozenset({'I_B-2.8', 'CGM_M-250-259', 'CGM_0-0-9'})"
+"frozenset({'CGM_M-250-259', 'CGM_0-0-9', 'I_B-3.3'})"
+"frozenset({'CGM_M-260-269', 'CGM_0-0-9', 'I_B-3.1'})"
+"frozenset({'CGM_M-260-269', 'I_B-3.7', 'CGM_0-0-9'})"
+"frozenset({'CGM_M-270-279', 'I_B-2.7', 'CGM_0-0-9'})"
+"frozenset({'CGM_M-270-279', 'I_B-4.0', 'CGM_0-0-9'})"
+"frozenset({'CGM_M-300-309', 'CGM_0-0-9', 'I_B-0.6'})"
+"frozenset({'CGM_M-300-309', 'CGM_0-0-9', 'I_B-3.1'})"
+"frozenset({'CGM_M-330-339', 'CGM_0-0-9', 'I_B-3.3'})"
+"frozenset({'CGM_M-340-349', 'CGM_0-0-9', 'I_B-3.5'})"
+"frozenset({'CGM_M-250-259', 'CGM_0-100-109', 'I_B-3.2'})"
+frozenset({'CGM_0-0-9'})
+frozenset({'CGM_0-100-109'})
+frozenset({'CGM_0-120-129'})
+frozenset({'CGM_0-130-139'})
+frozenset({'CGM_0-140-149'})
+frozenset({'CGM_0-150-159'})
+frozenset({'CGM_0-170-179'})
+frozenset({'CGM_0-210-219'})
+frozenset({'CGM_0-220-229'})
+frozenset({'CGM_0-70-79'})
+frozenset({'CGM_M-180-189'})
+frozenset({'CGM_M-200-209'})
+frozenset({'CGM_M-220-229'})
+frozenset({'CGM_M-230-239'})
+frozenset({'CGM_M-250-259'})
+frozenset({'CGM_M-260-269'})
+frozenset({'CGM_M-270-279'})
+frozenset({'CGM_M-320-329'})
+frozenset({'CGM_M-330-339'})
+frozenset({'CGM_M-350-359'})
+frozenset({'CGM_M-380-389'})
+frozenset({'I_B-2.9'})
+frozenset({'I_B-3.0'})
+frozenset({'I_B-3.1'})
+frozenset({'I_B-3.2'})
+frozenset({'I_B-3.3'})
+frozenset({'I_B-3.5'})
+"frozenset({'CGM_0-0-9', 'CGM_M-380-389'})"
+"frozenset({'I_B-2.9', 'CGM_0-0-9'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-200-209'})"
+"frozenset({'CGM_M-320-329', 'CGM_0-100-109'})"
+"frozenset({'CGM_0-100-109', 'I_B-2.9'})"
+"frozenset({'CGM_0-120-129', 'CGM_M-180-189'})"
+"frozenset({'CGM_M-250-259', 'CGM_0-120-129'})"
+"frozenset({'CGM_M-260-269', 'CGM_0-120-129'})"
+"frozenset({'I_B-2.9', 'CGM_0-120-129'})"
+"frozenset({'CGM_0-120-129', 'I_B-3.3'})"
+"frozenset({'CGM_0-120-129', 'I_B-3.5'})"
+"frozenset({'CGM_M-320-329', 'CGM_0-130-139'})"
+"frozenset({'I_B-3.1', 'CGM_0-130-139'})"
+"frozenset({'CGM_M-230-239', 'CGM_0-140-149'})"
+"frozenset({'CGM_M-250-259', 'CGM_0-140-149'})"
+"frozenset({'CGM_M-270-279', 'CGM_0-140-149'})"
+"frozenset({'I_B-2.9', 'CGM_0-140-149'})"
+"frozenset({'CGM_M-180-189', 'CGM_0-150-159'})"
+"frozenset({'I_B-3.0', 'CGM_0-150-159'})"
+"frozenset({'CGM_0-150-159', 'I_B-3.2'})"
+"frozenset({'CGM_0-170-179', 'CGM_M-220-229'})"
+"frozenset({'I_B-2.9', 'CGM_0-170-179'})"
+"frozenset({'CGM_M-320-329', 'CGM_0-210-219'})"
+"frozenset({'CGM_0-210-219', 'CGM_M-350-359'})"
+"frozenset({'CGM_0-210-219', 'I_B-2.9'})"
+"frozenset({'CGM_0-210-219', 'I_B-3.2'})"
+"frozenset({'CGM_M-260-269', 'CGM_0-220-229'})"
+"frozenset({'I_B-3.0', 'CGM_0-220-229'})"
+"frozenset({'CGM_M-260-269', 'CGM_0-70-79'})"
+"frozenset({'CGM_M-330-339', 'CGM_0-70-79'})"
+"frozenset({'I_B-2.9', 'CGM_0-70-79'})"
+"frozenset({'CGM_0-70-79', 'I_B-3.5'})"
+"frozenset({'I_B-3.0', 'CGM_M-180-189'})"
+"frozenset({'CGM_M-180-189', 'I_B-3.2'})"
+"frozenset({'CGM_M-180-189', 'I_B-3.3'})"
+"frozenset({'I_B-2.9', 'CGM_M-200-209'})"
+"frozenset({'I_B-2.9', 'CGM_M-220-229'})"
+"frozenset({'CGM_M-230-239', 'I_B-2.9'})"
+"frozenset({'I_B-2.9', 'CGM_M-250-259'})"
+"frozenset({'CGM_M-250-259', 'I_B-3.5'})"
+"frozenset({'CGM_M-260-269', 'I_B-2.9'})"
+"frozenset({'I_B-3.0', 'CGM_M-260-269'})"
+"frozenset({'CGM_M-260-269', 'I_B-3.5'})"
+"frozenset({'CGM_M-270-279', 'I_B-2.9'})"
+"frozenset({'CGM_M-320-329', 'I_B-2.9'})"
+"frozenset({'CGM_M-320-329', 'I_B-3.1'})"
+"frozenset({'CGM_M-320-329', 'I_B-3.2'})"
+"frozenset({'I_B-2.9', 'CGM_M-330-339'})"
+"frozenset({'I_B-2.9', 'CGM_M-350-359'})"
+"frozenset({'I_B-2.9', 'CGM_M-380-389'})"
+"frozenset({'I_B-2.9', 'CGM_0-0-9', 'CGM_M-380-389'})"
+"frozenset({'CGM_0-100-109', 'CGM_M-200-209', 'I_B-2.9'})"
+"frozenset({'CGM_M-320-329', 'CGM_0-100-109', 'I_B-2.9'})"
+"frozenset({'CGM_M-180-189', 'CGM_0-120-129', 'I_B-3.3'})"
+"frozenset({'CGM_M-250-259', 'CGM_0-120-129', 'I_B-3.5'})"
+"frozenset({'CGM_M-260-269', 'I_B-2.9', 'CGM_0-120-129'})"
+"frozenset({'CGM_M-320-329', 'I_B-3.1', 'CGM_0-130-139'})"
+"frozenset({'CGM_M-230-239', 'I_B-2.9', 'CGM_0-140-149'})"
+"frozenset({'I_B-2.9', 'CGM_0-140-149', 'CGM_M-250-259'})"
+"frozenset({'CGM_M-270-279', 'I_B-2.9', 'CGM_0-140-149'})"
+"frozenset({'I_B-3.0', 'CGM_M-180-189', 'CGM_0-150-159'})"
+"frozenset({'CGM_M-180-189', 'CGM_0-150-159', 'I_B-3.2'})"
+"frozenset({'I_B-2.9', 'CGM_0-170-179', 'CGM_M-220-229'})"
+"frozenset({'CGM_M-320-329', 'CGM_0-210-219', 'I_B-3.2'})"
+"frozenset({'CGM_0-210-219', 'I_B-2.9', 'CGM_M-350-359'})"
+"frozenset({'I_B-3.0', 'CGM_0-220-229', 'CGM_M-260-269'})"
+"frozenset({'CGM_M-260-269', 'CGM_0-70-79', 'I_B-3.5'})"
+"frozenset({'I_B-2.9', 'CGM_M-330-339', 'CGM_0-70-79'})"
